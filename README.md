@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SimonBachhuber
-- 👀 I’m interested in Data Science, AI and Web Development
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Math, AI and Data Science
 
 <!---
 SimonBachhuber/SimonBachhuber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
