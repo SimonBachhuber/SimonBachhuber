@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SimonBachhuber
-- 👀 I’m interested in Math, AI and Data Science
+- 👀 Becoming an ultra rich exciting savant genius magnetic petfish billionaire philantropist Quant
 
 <!---
 SimonBachhuber/SimonBachhuber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
